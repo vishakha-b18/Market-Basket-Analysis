@@ -21,6 +21,6 @@ adjustment that might lead to a superficially increased value. To avoid such err
 
 • Rules with larger value of lift should be preferred, given that the confidence of the rule is above the threshold. </br>
 
-
+---------------------------- </br>
 Vishakha Bhattacharjee </br>
 Columbia University
