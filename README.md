@@ -15,6 +15,8 @@ I used the Apriori Algorithm to create the association rules for this analysis. 
 ## How to choose a good rule? </br>
 • The threshold of support & confidence is generally considered on the higher side. The larger the support & confidence, the more popular and stronger the association rule is, and
 thus higher would be the chances of success of any action that is taken with this rule. </br>
+
 • Lift must be used in conjunction with Confidence to judge the credibility of an association rule. Sometimes the confidence of the association rule might have a spurious
 adjustment that might lead to a superficially increased value. To avoid such errors, it is important that only those rules are considered where not only the confidence is high, but also the value of lift is above 1. </br>
+
 • Rules with larger value of lift should be preferred, given that the confidence of the rule is above the threshold. </br>
