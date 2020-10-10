@@ -20,3 +20,7 @@ thus higher would be the chances of success of any action that is taken with thi
 adjustment that might lead to a superficially increased value. To avoid such errors, it is important that only those rules are considered where not only the confidence is high, but also the value of lift is above 1. </br>
 
 • Rules with larger value of lift should be preferred, given that the confidence of the rule is above the threshold. </br>
+
+
+Vishakha Bhattacharjee </br>
+Columbia University
